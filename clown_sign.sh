@@ -44,7 +44,7 @@
 # # Создаём большую надпись "я не умею лочить мак"
 # message = [
 #   "  Я НЕ УМЕЮ  ",
-#   " ЛОЧИТЬ МАК  "
+#   " ЛОЧИТЬ КОМП "
 # ]
 # message_rows = message.size
 # message_cols = message[0].size
