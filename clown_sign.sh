@@ -268,7 +268,7 @@ S = ["1F921".to_i(16)].pack("U*");
 message = [
    "       Я    Н Е     У М Е Ю      ",
    "                                 ",
-   "       Л О Ч И Т Ь    М А К      "
+   "       Л О Ч И Т Ь    К О М П     "
 ]
 message_rows = message.size
 message_cols = message[0].size
